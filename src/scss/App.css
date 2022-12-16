@@ -1,0 +1,80 @@
+thead tr th {
+  background-color: #360940 !important;
+  color: #fff;
+  padding: 0.5em;
+}
+.btn-success {
+  background-color: #360940 !important;
+  border: none !important;
+}
+#custom-text {
+  margin-left: 10px;
+  font-family: sans-serif;
+  color: #aaa;
+}
+table {
+  width: 100% !important;
+  font-size: 1.2em;
+}
+table,
+th,
+td {
+  border-collapse: collapse;
+  text-align: center;
+  padding: 0.5em 0.5em;
+  border: 1px solid #0071bb;
+  font-size: 0.9em !important;
+}
+.btn-success {
+  background-color: #360940 !important;
+  border: none !important;
+}
+/* .container {
+  width: 80% !important;
+} */
+.upload_container {
+  border: 2px dotted #360940;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3em 0;
+  /* margin: 5em 5em 5em 5em; */
+  background-color: aliceblue;
+}
+#custom-button {
+  padding: 10px;
+  color: white;
+  background-color: #360940;
+  border: 1px solid #000;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#custom-text {
+  margin-left: 10px;
+  font-family: sans-serif;
+  color: #aaa;
+}
+.uploadBtn {
+  border: none;
+  outline: none;
+  background-color: #3399ff;
+  color: #fff;
+  padding: 0.5em;
+  width: 90px;
+}
+.Download_btn {
+  border: none;
+  outline: none;
+  background-color: #360940;
+  color: #fff;
+  padding: 0.5em;
+  border-radius: 2px;
+}
+.uploadForm {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
